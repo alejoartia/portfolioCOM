@@ -3,7 +3,7 @@
 This is a project for people who wants to create a portfolio and does not how to do it, 
 with this project just has to create an user, put all the photos, information, descriptions and does it, the people could show his/her profile or portfolio to the entire world.
 
-![](https://i.imgur.com/4VotR0d.png)
+![](static/img/gitphoto.png)
 
 ## Dependencies
 Python 3
